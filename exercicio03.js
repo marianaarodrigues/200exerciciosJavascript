@@ -4,6 +4,6 @@ Exercício 3: Declare uma variável chamada "numeroMaximo", atribua a ela o valo
 
 */
 
-let numeroMaximo = Number.MAX_VALUE;
+const numeroMaximo = Number.MAX_VALUE;
 
 console.log(`O valor máximo que um número pode ter em JavaScript é ${numeroMaximo}.`);

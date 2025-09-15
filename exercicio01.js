@@ -4,7 +4,7 @@ Exercício 1: Declare duas variáveis chamadas "idade" e "peso", atribua valores
 
 */
 
-let peso = 55;
-let idade = 33;
+const idade = 33;
+const peso = 55;
 
-console.log(`Peso: ${peso} kg, e idade: ${idade} anos.`);
+console.log(`Idade: ${idade} anos, e peso: ${peso} kg.`);
