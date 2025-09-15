@@ -1,6 +1,6 @@
 # Repositório de 200 exercícios de JavaScript
 
-Bem-vindo à nossa coleção de 200 exercícios resolvidos de JavaScript! 
+Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript! 
 
 ## Lista de Exercícios:
 
