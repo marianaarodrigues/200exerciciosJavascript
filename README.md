@@ -12,4 +12,4 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 
 - `exercicio04.js`: Declara duas variáveis, "nome" e "sobrenome", atribui valores, concatena, e imprime na console.
 
-- `exercicio05.js`: 
+- `exercicio05.js`: Declara duas variáveis, atribui valores, soma, e imprime o resultado.
