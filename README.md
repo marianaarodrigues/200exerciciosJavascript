@@ -19,3 +19,5 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 07](exercicios/exercicio07.js): Declara três variáveis, atribui valores numéricos, compara os valores, e imprime na console.
 
 - [Exercício 08](exercicios/exercicio08.js): Declara uma variável, atribui valor numérico, usa o operador de incremento, e imprime na console.
+
+- [Exercício 09](exercicios/exercicio09.js): Recebe um número e verifica se ele é positivo, negativo ou zero.
