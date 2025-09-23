@@ -21,3 +21,5 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 08](exercicios/exercicio08.js): Declara uma variável, atribui valor numérico, usa o operador de incremento, e imprime na console.
 
 - [Exercício 09](exercicios/exercicio09.js): Recebe um número e verifica se ele é positivo, negativo ou zero.
+
+- [Exercício 10](exercicios/exercicio10.js): Recebe duas notas, calcula a média e imprime se estudante foi aprovado(a) ou reprovado(a) (média para aprovação: 7).
