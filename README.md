@@ -23,3 +23,5 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 09](exercicios/exercicio09.js): Recebe um número e verifica se ele é positivo, negativo ou zero.
 
 - [Exercício 10](exercicios/exercicio10.js): Recebe duas notas, calcula a média e imprime se estudante foi aprovado(a) ou reprovado(a) (média para aprovação: 7).
+
+- [Exercício 11](exercicios/exercicio11.js): Verifica se uma pessoa pode votar, com base na idade informada.
