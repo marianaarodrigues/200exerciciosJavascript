@@ -25,3 +25,9 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 10](exercicios/exercicio10.js): Recebe duas notas, calcula a média e imprime se estudante foi aprovado(a) ou reprovado(a) (média para aprovação: 7).
 
 - [Exercício 11](exercicios/exercicio11.js): Verifica se uma pessoa pode votar, com base na idade informada.
+
+- [Exercício 12](exercicios/exercicio12.js): Verifica a situação de um(a) estudante de acordo com sua média final.
+
+- [Exercício 13](exercicios/exercicio13.js): Verifica a situação de uma pessoa (abaixo do peso, peso normal, sobrepeso, obesidade), conforme cálculo do IMC a partir do peso e altura informados.
+
+- [Exercício 14](exercicios/exercicio14.js): Verifica se o ano informado é bissexto.
