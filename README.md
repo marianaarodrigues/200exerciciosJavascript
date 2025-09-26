@@ -31,3 +31,15 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 13](exercicios/exercicio13.js): Verifica a situação de uma pessoa (abaixo do peso, peso normal, sobrepeso, obesidade), conforme cálculo do IMC a partir do peso e altura informados.
 
 - [Exercício 14](exercicios/exercicio14.js): Verifica se o ano informado é bissexto.
+
+- [Exercício 15](exercicios/exercicio15.js): Verifica se uma palavra é um palíndromo.
+
+- [Exercício 16](exercicios/exercicio16.js): Determina o maior entre três números.
+
+- [Exercício 17](exercicios/exercicio17.js): Determina se um número é par ou ímpar.
+
+- [Exercício 18](exercicios/exercicio18.js): Verifica se uma pessoa pode dirigir com base na idade.
+
+- [Exercício 19](exercicios/exercicio19.js): Verifica se um número está dentro de um determinado intervalo.
+
+- [Exercício 20](exercicios/exercicio20.js): Imprime uma classificação baseada na nota de um aluno.
