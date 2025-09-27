@@ -5,7 +5,7 @@ Escreva um programa que determina a estação do ano com base no mês.
 */
 
 let mesInformado = prompt("Digite o mês do ano:");
-// Remover possíveis acentos e colocar todas as letras minúsculas
+// Remover possíveis sinais diacríticos e colocar todas as letras minúsculas
 let mes = mesInformado.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 switch(mes) {
     case "janeiro":
