@@ -43,3 +43,13 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 19](exercicios/exercicio19.js): Verifica se um número está dentro de um determinado intervalo.
 
 - [Exercício 20](exercicios/exercicio20.js): Imprime uma classificação baseada na nota de um aluno.
+
+- [Exercício 21](exercicios/exercicio21.js): Determina a estação do ano com base no mês.
+
+- [Exercício 22](exercicios/exercicio22.js): Determina o número de dias em um mês.
+
+- [Exercício 23](exercicios/exercicio23.js): Verifica as cores de um semáforo.
+
+- [Exercício 24](exercicios/exercicio24.js): Usando um laço for, imprime os números de 1 a 10.
+
+- [Exercício 25](exercicios/exercicio25.js): Usando um laço while, imprime os números de 10 a 1 (em ordem decrescente).
