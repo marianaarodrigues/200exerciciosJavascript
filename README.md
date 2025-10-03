@@ -67,3 +67,7 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 31](exercicios/exercicio31.js): Usando um laço while, adivinha um número que a pessoa usuária pensou, através do método de busca binária.
 
 - [Exercício 32](exercicios/exercicio32.js): Usando um laço do-while, cria um jogo de 'Pedra, papel e tesoura' contra o computador.
+
+- [Exercício 33](exercicios/exercicio33.js): Usando um laço for, imprime os primeiros 10 números da sequência de Fibonacci.
+
+- [Exercício 34](exercicios/exercicio34.js): Usando um laço for, imprime os primeiros 100 termos do Problema FizzBuzz.
