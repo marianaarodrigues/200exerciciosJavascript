@@ -71,3 +71,7 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 33](exercicios/exercicio33.js): Usando um laço for, imprime os primeiros 10 números da sequência de Fibonacci.
 
 - [Exercício 34](exercicios/exercicio34.js): Usando um laço for, imprime os primeiros 100 termos do Problema FizzBuzz.
+
+- [Exercício 35](exercicios/exercicio35.js): Usando um laço for, imprime os primeiros 10 números triangulares (n*(n+1)/2).
+
+- [Exercício 36](exercicios/exercicio36.js): Usando um laço for, imprime todos os números perfeitos de 1 a 100.
