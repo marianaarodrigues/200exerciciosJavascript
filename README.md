@@ -75,3 +75,5 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 - [Exercício 35](exercicios/exercicio35.js): Usando um laço for, imprime os primeiros 10 números triangulares (n*(n+1)/2).
 
 - [Exercício 36](exercicios/exercicio36.js): Usando um laço for, imprime todos os números perfeitos de 1 a 100.
+
+- [Exercício 37](exercicios/exercicio37.js): Usando um laço while, imprime a soma dos quadrados dos primeiros 10 números naturais
