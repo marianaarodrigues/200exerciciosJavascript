@@ -76,4 +76,10 @@ Bem-vindo(a) à minha coleção de 200 exercícios resolvidos de JavaScript!
 
 - [Exercício 36](exercicios/exercicio36.js): Usando um laço for, imprime todos os números perfeitos de 1 a 100.
 
-- [Exercício 37](exercicios/exercicio37.js): Usando um laço while, imprime a soma dos quadrados dos primeiros 10 números naturais
+- [Exercício 37](exercicios/exercicio37.js): Usando um laço while, imprime a soma dos quadrados dos primeiros 10 números naturais.
+
+- [Exercício 38](exercicios/exercicio38.js): Usando um laço do-while, imprime a soma dos cubos dos primeiros 10 números naturais.
+
+- [Exercício 39](exercicios/exercicio39.js): Usando um laço for, calcula o fatorial de um número.
+
+- [Exercício 40](exercicios/exercicio40.js): Usando um laço while, inverte uma string.
